@@ -66,3 +66,14 @@ git cherrypick
 -> 백그라운드 지식은 기술 지식이 아님
 
 지식을 머리에가 때려넣는거보다 내가 원하는 지식이 뭔지, 어떻게 그 지식을 쌓을 수 있는지를 알려줘야 됨ㅇ
+
+git pull = git fetch + git merge
+
+1. web 에서 머지
+2. 로컬 터미널에서 git switch react-이동훈
+3. git pull upstream react-이동훈
+4. git switch -c react-이동훈-sprint6
+
+git stash
+git stash list
+git stash apply stash@{0}
